@@ -5,7 +5,7 @@ The data set that is used in the model is take from Kraggle which is under the n
 which is provided here itself
 
 The data set used in the model has 768 entries and 9 variables namely Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insuline, 
-BMI(Body Mass Index), Diabetes Pedigree Function, Age, Outcome and doesn't contain any null values.
+BMI(Body Mass Index), Diabetes Pedigree Function, Age, Outcome and the enties doesn't contain any null values.
 
 Discricption of the Variables:
 1.	Pregnancies: It is no of pregnancies the patient has had which is in terms of numerical values.(Type: float)
